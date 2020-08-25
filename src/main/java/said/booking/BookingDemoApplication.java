@@ -1,4 +1,4 @@
-package romaniancoder.booking;
+package said.booking;
 
 import org.jsondoc.spring.boot.starter.EnableJSONDoc;
 import org.springframework.boot.SpringApplication;

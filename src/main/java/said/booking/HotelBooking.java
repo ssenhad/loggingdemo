@@ -1,4 +1,4 @@
-package romaniancoder.booking;
+package said.booking;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

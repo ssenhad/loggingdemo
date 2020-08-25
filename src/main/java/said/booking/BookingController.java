@@ -1,4 +1,4 @@
-package romaniancoder.booking;
+package said.booking;
 
 import org.jsondoc.core.annotation.Api;
 import org.jsondoc.core.annotation.ApiMethod;
@@ -7,9 +7,7 @@ import org.jsondoc.core.pojo.ApiStage;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping(value = "/bookings")

@@ -1,4 +1,4 @@
-package romaniancoder.booking;
+package said.booking;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
